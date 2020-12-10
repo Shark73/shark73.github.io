@@ -1934,6 +1934,11 @@ margin:0;
   position: relative;
       margin-top: 2em;
 }
+
+/*--Footer--*/
+.footer {
+	margin-top:50px;
+}
 /*--//copy-right--*/
 .copy {
     padding-bottom: 1em;
