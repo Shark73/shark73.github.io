@@ -1770,9 +1770,6 @@ display:none;
 }
 
 /*--Footer--*/
-footer {
-	padding-top: 500px;
-}
 .footer-left h3{
     font-size: 1.2em;
     font-weight: 400;
@@ -1820,6 +1817,7 @@ ul.socials {
     padding-top: 5px;
 }
 /*--end-footer--*/
+
 /*--copy-right--*/
 ul.socials li {
     list-style: none;
