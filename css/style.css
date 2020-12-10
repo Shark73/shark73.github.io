@@ -1770,6 +1770,9 @@ display:none;
 }
 
 /*--Footer--*/
+footer {
+	padding-top: 50 px;
+}
 .footer-left h3{
     font-size: 1.2em;
     font-weight: 400;
