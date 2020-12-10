@@ -1773,7 +1773,7 @@ display:none;
 
 /*--Footer--*/
 footer {
-	padding: 0em;
+	margin-top 10em;
 }
 
 .footer-left h3{
